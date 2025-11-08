@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Integer Index</string>
+    <string name="title">Danh Sách Số Nguyên</string>
+    <string name="enter_number">Nhập số nguyên N</string>
+    <string name="select_type">Chọn loại số:</string>
+    <string name="even_numbers">Số chẵn</string>
+    <string name="odd_numbers">Số lẻ</string>
+    <string name="prime_numbers">Số nguyên tố</string>
+    <string name="perfect_square">Số chính phương</string>
+    <string name="palindrome_numbers">Số palindrome</string>
+    <string name="perfect_numbers">Số hoàn hảo</string>
+    <string name="no_numbers_found">Không có số nào thỏa mãn</string>
+</resources>
